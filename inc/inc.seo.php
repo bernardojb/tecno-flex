@@ -127,7 +127,7 @@ $canonical = $proto . '://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
   <!-- Sempre checar se está OK daqui para baixo -->
   <!-- <base href="https://www.tflx.com.br/"> -->
 
-  <base href="https://www.tflx.com.br/">
+  <!-- <base href="https://www.tflx.com.br/"> -->
 
   <!-- Title -->
   <title><?= $title ?><?= $isHome = !isset($isHome) ? ' | Tecno-Flex' : ''; ?></title>
