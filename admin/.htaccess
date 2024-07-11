@@ -1,0 +1,226 @@
+# ----------------------------------------
+# Basic
+# ----------------------------------------
+<Files ~ "^.*\.([Hh][Tt][Aa])">
+  Order Allow,Deny
+  Deny From All
+  Satisfy All
+</Files>
+# ----------------------------------------
+<IfModule mod_autoindex.c>
+  Options -Indexes
+</IfModule>
+
+# ----------------------------------------
+# PHP7
+# ----------------------------------------
+<IfModule mod_php7.c>
+  php_flag   display_startup_errors off
+  php_flag   display_errors off
+  php_flag   html_errors off
+  php_flag   log_errors on
+  php_flag   ignore_repeated_errors off
+  php_flag   ignore_repeated_source off
+  php_flag   report_memleaks on
+  php_flag   track_errors on
+  php_value  docref_root 0
+  php_value  docref_ext 0
+  php_value  error_reporting -1
+  php_value  log_errors_max_len 0
+</IfModule>
+
+# ----------------------------------------
+# Compression
+# ----------------------------------------
+<IfModule mod_deflate.c>
+  <IfModule mod_setenvif.c>
+    <IfModule mod_headers.c>
+      SetEnvIfNoCase ^(Accept-EncodXng|X-cept-Encoding|X{15}|~{15}|-{15})$ ^((gzip|deflate)\s*,?\s*)+|[X~-]{4,13}$ HAVE_Accept-Encoding
+      RequestHeader append Accept-Encoding "gzip,deflate" env=HAVE_Accept-Encoding
+    </IfModule>
+  </IfModule>
+  # ----------------------------------------
+  <IfModule mod_filter.c>
+    AddOutputFilterByType DEFLATE  "application/atom+xml" \
+                                   "application/javascript" \
+                                   "application/json" \
+                                   "application/ld+json" \
+                                   "application/manifest+json" \
+                                   "application/rdf+xml" \
+                                   "application/rss+xml" \
+                                   "application/schema+json" \
+                                   "application/vnd.geo+json" \
+                                   "application/vnd.ms-fontobject" \
+                                   "application/wasm" \
+                                   "application/x-font-ttf" \
+                                   "application/x-javascript" \
+                                   "application/x-web-app-manifest+json" \
+                                   "application/xhtml+xml" \
+                                   "application/xml" \
+                                   "font/collection" \
+                                   "font/eot" \
+                                   "font/opentype" \
+                                   "font/otf" \
+                                   "font/ttf" \
+                                   "image/bmp" \
+                                   "image/svg+xml" \
+                                   "image/vnd.microsoft.icon" \
+                                   "image/x-icon" \
+                                   "text/cache-manifest" \
+                                   "text/calendar" \
+                                   "text/css" \
+                                   "text/html" \
+                                   "text/javascript" \
+                                   "text/plain" \
+                                   "text/markdown" \
+                                   "text/vcard" \
+                                   "text/vnd.rim.location.xloc" \
+                                   "text/vtt" \
+                                   "text/x-component" \
+                                   "text/x-cross-domain-policy" \
+                                   "text/xml"
+  </IfModule>
+  # ----------------------------------------
+  <IfModule mod_mime.c>
+    AddEncoding gzip svgz
+  </IfModule>
+</IfModule>
+# ----------------------------------------
+<IfModule mod_headers.c>
+  Header unset ETag
+</IfModule>
+FileETag None
+# ----------------------------------------
+<IfModule mod_headers.c>
+  Header merge Cache-Control "no-transform"
+</IfModule>
+# ----------------------------------------
+<IfModule mod_expires.c>
+  ExpiresActive on
+  ExpiresDefault                                     "access plus 1 month"
+  ExpiresByType application/atom+xml                 "access plus 1 hour"
+  ExpiresByType application/font-woff                "access plus 1 month"
+  ExpiresByType application/font-woff2               "access plus 1 month"
+  ExpiresByType application/javascript               "access plus 1 year"
+  ExpiresByType application/json                     "access plus 0 seconds"
+  ExpiresByType application/ld+json                  "access plus 0 seconds"
+  ExpiresByType application/manifest+json            "access plus 1 week"
+  ExpiresByType application/rdf+xml                  "access plus 1 hour"
+  ExpiresByType application/rss+xml                  "access plus 1 hour"
+  ExpiresByType application/schema+json              "access plus 0 seconds"
+  ExpiresByType application/vnd.geo+json             "access plus 0 seconds"
+  ExpiresByType application/vnd.ms-fontobject        "access plus 1 month"
+  ExpiresByType application/wasm                     "access plus 1 year"
+  ExpiresByType application/x-font-ttf               "access plus 1 month"
+  ExpiresByType application/x-font-woff              "access plus 1 month"
+  ExpiresByType application/x-javascript             "access plus 1 year"
+  ExpiresByType application/xml                      "access plus 0 seconds"
+  ExpiresByType application/x-web-app-manifest+json  "access plus 0 seconds"
+  ExpiresByType audio/ogg                            "access plus 1 month"
+  ExpiresByType font/collection                      "access plus 1 month"
+  ExpiresByType font/eot                             "access plus 1 month"
+  ExpiresByType font/opentype                        "access plus 1 month"
+  ExpiresByType font/otf                             "access plus 1 month"
+  ExpiresByType font/ttf                             "access plus 1 month"
+  ExpiresByType font/woff                            "access plus 1 month"
+  ExpiresByType font/woff2                           "access plus 1 month"
+  ExpiresByType image/bmp                            "access plus 1 month"
+  ExpiresByType image/gif                            "access plus 1 month"
+  ExpiresByType image/jpeg                           "access plus 1 month"
+  ExpiresByType image/png                            "access plus 1 month"
+  ExpiresByType image/svg+xml                        "access plus 1 month"
+  ExpiresByType image/vnd.microsoft.icon             "access plus 1 week"
+  ExpiresByType image/webp                           "access plus 1 month"
+  ExpiresByType image/x-icon                         "access plus 1 week"
+  ExpiresByType text/cache-manifest                  "access plus 0 seconds"
+  ExpiresByType text/calendar                        "access plus 0 seconds"
+  ExpiresByType text/css                             "access plus 1 year"
+  ExpiresByType text/html                            "access plus 0 seconds"
+  ExpiresByType text/javascript                      "access plus 1 year"
+  ExpiresByType text/markdown                        "access plus 0 seconds"
+  ExpiresByType text/x-cross-domain-policy           "access plus 1 week"
+  ExpiresByType text/xml                             "access plus 0 seconds"
+  ExpiresByType video/mp4                            "access plus 1 month"
+  ExpiresByType video/ogg                            "access plus 1 month"
+  ExpiresByType video/webm                           "access plus 1 month"
+</IfModule>
+
+# ----------------------------------------
+# Security
+# ----------------------------------------
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{REQUEST_URI} "!(^|/)\.well-known/([^./]+./?)+$" [NC]
+  RewriteCond %{SCRIPT_FILENAME} -d [OR]
+  RewriteCond %{SCRIPT_FILENAME} -f
+  RewriteRule "(^|/)\." - [F]
+</IfModule>
+# ----------------------------------------
+<IfModule mod_authz_core.c>
+  <FilesMatch "(^#.*#|\.(bak|conf|dist|fla|in[ci]|log|orig|psd|sh|sql|sw[op])|~)$">
+    Require all denied
+  </FilesMatch>
+</IfModule>
+# ----------------------------------------
+ServerSignature Off
+# ----------------------------------------
+<IfModule mod_headers.c>
+  Header always set Strict-Transport-Security "max-age=16070400; includeSubDomains"
+</IfModule>
+# ----------------------------------------
+<IfModule mod_headers.c>
+  Header set X-XSS-Protection "1; mode=block"
+  <FilesMatch "\.(%FilesMatchPattern%)$">
+    Header unset X-XSS-Protection
+  </FilesMatch>
+</IfModule>
+
+# ----------------------------------------
+# Errors
+# ----------------------------------------
+ErrorDocument 400  /erro
+ErrorDocument 401  /erro
+ErrorDocument 403  /erro
+ErrorDocument 404  /erro
+ErrorDocument 500  /erro
+
+# ----------------------------------------
+# Force HTTPS
+# ----------------------------------------
+RewriteEngine On
+# ----------------------------------------
+# RewriteCond %{HTTP_HOST} ^(www\.)(.+) [OR]
+# RewriteCond %{HTTPS} off
+# RewriteCond %{HTTP_HOST} ^(www\.)?(.+)
+# RewriteRule ^ https://%2%{REQUEST_URI} [R=301,L]
+# ----------------------------------------
+# Friendly URL
+# ----------------------------------------
+# ----------------------------------------
+# View
+# ----------------------------------------
+RewriteRule ^banners/?$          banners.php    [NC,L]
+RewriteRule ^destacar/?$   destacar.php  [NC,L]
+RewriteRule ^dashboard/?$        dashboard.php  [NC,L]
+RewriteRule ^editar/?$           edit.php       [NC,L]
+RewriteRule ^erro/?$             error.php      [NC,L]
+RewriteRule ^recuperar-senha/?$  forgot.php     [NC,L]
+RewriteRule ^login-form/?$       index.php      [NC,L]
+RewriteRule ^novo/?$             new.php        [NC,L]
+RewriteRule ^perfil/?$           profile.php    [NC,L]
+RewriteRule ^visualizar/?$       view.php       [NC,L]
+# ----------------------------------------
+# Controller
+# ----------------------------------------
+RewriteRule ^adicionar/?$  app/add.php       [NC,L]
+
+RewriteRule ^combobox/?$   app/combobox.php  [NC,L]
+RewriteRule ^deletar/?$    app/delete.php    [NC,L]
+RewriteRule ^login/?$      app/login.php     [NC,L]
+RewriteRule ^logout/?$     app/logout.php    [NC,L]
+RewriteRule ^resetar/?$    app/reset.php     [NC,L]
+RewriteRule ^senha/?$      app/password.php  [NC,L]
+RewriteRule ^atualizar/?$  app/update.php    [NC,L]
+RewriteRule ^upload/?$     app/upload.php    [NC,L]
+# ----------------------------------------
+

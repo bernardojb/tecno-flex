@@ -1,0 +1,963 @@
+[25-Jan-2024 23:27:15 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:15 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:15 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:16 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:16 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:16 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:17 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:17 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:17 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:17 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:17 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:17 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:18 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:18 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:18 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/tflx/public_html/blog/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/block-patterns.php on line 9
+[25-Jan-2024 23:27:18 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:18 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:18 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:19 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:19 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:19 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:20 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:20 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:20 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:20 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:20 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:20 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:21 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:21 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:21 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:21 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:21 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:21 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:22 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:22 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:22 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:22 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/cache.php on line 12
+[25-Jan-2024 23:27:22 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/cache.php on line 12
+[25-Jan-2024 23:27:22 UTC] PHP Warning:  require_once(ABSPATHWPINC/class-wp-object-cache.php): failed to open stream: No such file or directory in /home/tflx/public_html/blog/wp-includes/cache.php on line 12
+[25-Jan-2024 23:27:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-object-cache.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tflx/public_html/blog/wp-includes/cache.php on line 12
+[25-Jan-2024 23:27:22 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:22 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:22 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:23 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:23 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:23 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:23 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:23 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:23 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:24 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:24 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:24 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:24 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:24 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:24 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:24 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/class-IXR.php on line 42
+[25-Jan-2024 23:27:24 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/class-IXR.php on line 42
+[25-Jan-2024 23:27:24 UTC] PHP Warning:  require_once(ABSPATHWPINC/IXR/class-IXR-server.php): failed to open stream: No such file or directory in /home/tflx/public_html/blog/wp-includes/class-IXR.php on line 42
+[25-Jan-2024 23:27:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/IXR/class-IXR-server.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tflx/public_html/blog/wp-includes/class-IXR.php on line 42
+[25-Jan-2024 23:27:25 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:25 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:25 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/tflx/public_html/blog/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/class-feed.php on line 10
+[25-Jan-2024 23:27:26 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:26 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:26 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/tflx/public_html/blog/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/class-http.php on line 11
+[25-Jan-2024 23:27:26 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:26 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:26 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/tflx/public_html/blog/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/class-json.php on line 2
+[25-Jan-2024 23:27:27 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:27 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:27 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/tflx/public_html/blog/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/class-oembed.php on line 12
+[25-Jan-2024 23:27:27 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:27 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:27 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:28 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:28 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:28 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:28 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:28 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:28 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:29 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:29 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:29 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:29 UTC] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home/tflx/public_html/blog/wp-includes/class-requests.php on line 24
+[25-Jan-2024 23:27:29 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:29 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:29 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:29 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/class-simplepie.php on line 5
+[25-Jan-2024 23:27:29 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/class-simplepie.php on line 5
+[25-Jan-2024 23:27:29 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/tflx/public_html/blog/wp-includes/class-simplepie.php on line 5
+[25-Jan-2024 23:27:29 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tflx/public_html/blog/wp-includes/class-simplepie.php on line 5
+[25-Jan-2024 23:27:30 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:30 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:30 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/tflx/public_html/blog/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/class-smtp.php on line 6
+[25-Jan-2024 23:27:31 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:31 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:31 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/tflx/public_html/blog/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/class-snoopy.php on line 6
+[25-Jan-2024 23:27:31 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:31 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:31 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:31 UTC] PHP Fatal error:  Class 'Walker' not found in /home/tflx/public_html/blog/wp-includes/class-walker-category-dropdown.php on line 17
+[25-Jan-2024 23:27:32 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:32 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:32 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:32 UTC] PHP Fatal error:  Class 'Walker' not found in /home/tflx/public_html/blog/wp-includes/class-walker-category.php on line 17
+[25-Jan-2024 23:27:32 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:32 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:32 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:32 UTC] PHP Fatal error:  Class 'Walker' not found in /home/tflx/public_html/blog/wp-includes/class-walker-comment.php on line 17
+[25-Jan-2024 23:27:33 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:33 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:33 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:33 UTC] PHP Fatal error:  Class 'Walker' not found in /home/tflx/public_html/blog/wp-includes/class-walker-nav-menu.php on line 17
+[25-Jan-2024 23:27:33 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:33 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:33 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:33 UTC] PHP Fatal error:  Class 'Walker' not found in /home/tflx/public_html/blog/wp-includes/class-walker-page-dropdown.php on line 17
+[25-Jan-2024 23:27:34 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:34 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:34 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:34 UTC] PHP Fatal error:  Class 'Walker' not found in /home/tflx/public_html/blog/wp-includes/class-walker-page.php on line 17
+[25-Jan-2024 23:27:34 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:34 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:34 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:35 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:35 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:35 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:35 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:35 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:35 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:36 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:36 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:36 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:36 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:36 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:36 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:37 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:37 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:37 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:37 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:37 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:37 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:38 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:38 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:38 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:39 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:39 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:39 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:39 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:39 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:39 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:40 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:40 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:40 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:40 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:40 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:40 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:41 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:41 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:41 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:42 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:42 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:42 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:42 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:42 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:42 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:43 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:43 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:43 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:43 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:43 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:43 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:44 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:44 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:44 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:44 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:44 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:44 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:45 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:45 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:45 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:45 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/class-wp-customize-control.php on line 709
+[25-Jan-2024 23:27:45 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/class-wp-customize-control.php on line 709
+[25-Jan-2024 23:27:45 UTC] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-color-control.php): failed to open stream: No such file or directory in /home/tflx/public_html/blog/wp-includes/class-wp-customize-control.php on line 709
+[25-Jan-2024 23:27:45 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-color-control.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tflx/public_html/blog/wp-includes/class-wp-customize-control.php on line 709
+[25-Jan-2024 23:27:45 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:45 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:45 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:46 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:46 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:46 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:46 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:46 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:46 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:46 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/class-wp-customize-panel.php on line 411
+[25-Jan-2024 23:27:46 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/class-wp-customize-panel.php on line 411
+[25-Jan-2024 23:27:46 UTC] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home/tflx/public_html/blog/wp-includes/class-wp-customize-panel.php on line 411
+[25-Jan-2024 23:27:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tflx/public_html/blog/wp-includes/class-wp-customize-panel.php on line 411
+[25-Jan-2024 23:27:47 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:47 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:47 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:47 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/class-wp-customize-section.php on line 412
+[25-Jan-2024 23:27:47 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/class-wp-customize-section.php on line 412
+[25-Jan-2024 23:27:47 UTC] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-themes-section.php): failed to open stream: No such file or directory in /home/tflx/public_html/blog/wp-includes/class-wp-customize-section.php on line 412
+[25-Jan-2024 23:27:47 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-themes-section.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tflx/public_html/blog/wp-includes/class-wp-customize-section.php on line 412
+[25-Jan-2024 23:27:48 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:48 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:48 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:48 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/class-wp-customize-setting.php on line 964
+[25-Jan-2024 23:27:48 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/class-wp-customize-setting.php on line 964
+[25-Jan-2024 23:27:48 UTC] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-filter-setting.php): failed to open stream: No such file or directory in /home/tflx/public_html/blog/wp-includes/class-wp-customize-setting.php on line 964
+[25-Jan-2024 23:27:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-filter-setting.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tflx/public_html/blog/wp-includes/class-wp-customize-setting.php on line 964
+[25-Jan-2024 23:27:48 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:48 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:48 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:49 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:49 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:49 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:49 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:49 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:49 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:50 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:50 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:50 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:50 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:50 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:50 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:51 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:51 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:51 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:51 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:51 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:51 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:52 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:52 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:52 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:52 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:52 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:52 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:53 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:53 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:53 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:53 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:53 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:53 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/tflx/public_html/blog/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/class-wp-feed-cache.php on line 11
+[25-Jan-2024 23:27:54 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:54 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:54 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:54 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:54 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:54 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:55 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:55 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:55 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:55 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:55 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:55 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:56 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:56 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:56 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:56 UTC] PHP Fatal error:  Class 'IXR_Client' not found in /home/tflx/public_html/blog/wp-includes/class-wp-http-ixr-client.php on line 9
+[25-Jan-2024 23:27:56 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:56 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:56 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:57 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:57 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:57 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:57 UTC] PHP Fatal error:  Class 'WpOrg\Requests\Hooks' not found in /home/tflx/public_html/blog/wp-includes/class-wp-http-requests-hooks.php on line 18
+[25-Jan-2024 23:27:57 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:57 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:57 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:57 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/tflx/public_html/blog/wp-includes/class-wp-http-requests-response.php on line 17
+[25-Jan-2024 23:27:58 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:58 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:58 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:58 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:58 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:58 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:59 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:59 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:59 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:59 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/class-wp-http.php on line 11
+[25-Jan-2024 23:27:59 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/class-wp-http.php on line 11
+[25-Jan-2024 23:27:59 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home/tflx/public_html/blog/wp-includes/class-wp-http.php on line 11
+[25-Jan-2024 23:27:59 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tflx/public_html/blog/wp-includes/class-wp-http.php on line 11
+[25-Jan-2024 23:27:59 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:59 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:59 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:27:59 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/tflx/public_html/blog/wp-includes/class-wp-image-editor-gd.php on line 16
+[25-Jan-2024 23:28:00 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:00 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:00 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:00 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/tflx/public_html/blog/wp-includes/class-wp-image-editor-imagick.php on line 16
+[25-Jan-2024 23:28:01 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:01 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:01 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:01 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:01 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:01 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:02 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:02 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:02 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:02 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:02 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:02 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:03 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:03 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:03 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:03 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:03 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:03 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:04 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:04 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:04 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:04 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:04 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:04 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:05 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:05 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:05 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:06 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:06 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:06 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:06 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:06 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:06 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:07 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:07 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:07 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:07 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:07 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:07 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:08 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:08 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:08 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:08 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:08 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:08 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:09 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:09 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:09 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:09 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:09 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:09 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:10 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:10 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:10 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:11 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:11 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:11 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:11 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:11 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:11 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:12 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:12 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:12 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:12 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:12 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:12 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:13 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:13 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:13 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:13 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:13 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:13 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:14 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:14 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:14 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:14 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:14 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:14 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:14 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/tflx/public_html/blog/wp-includes/class-wp-scripts.php on line 18
+[25-Jan-2024 23:28:15 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:15 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:15 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:15 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:15 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:15 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:15 UTC] PHP Fatal error:  Class 'SimplePie_File' not found in /home/tflx/public_html/blog/wp-includes/class-wp-simplepie-file.php on line 19
+[25-Jan-2024 23:28:16 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:16 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:16 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:16 UTC] PHP Fatal error:  Class 'SimplePie_Sanitize' not found in /home/tflx/public_html/blog/wp-includes/class-wp-simplepie-sanitize-kses.php on line 19
+[25-Jan-2024 23:28:16 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:16 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:16 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:17 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:17 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:17 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:17 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:17 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:17 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:17 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/tflx/public_html/blog/wp-includes/class-wp-styles.php on line 18
+[25-Jan-2024 23:28:20 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:20 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:20 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:21 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:21 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:21 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:21 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:21 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:21 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:22 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:22 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:22 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:22 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:22 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:22 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:22 UTC] PHP Fatal error:  Class 'Text_Diff_Renderer_inline' not found in /home/tflx/public_html/blog/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[25-Jan-2024 23:28:23 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:23 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:23 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:23 UTC] PHP Fatal error:  Class 'Text_Diff_Renderer' not found in /home/tflx/public_html/blog/wp-includes/class-wp-text-diff-renderer-table.php on line 17
+[25-Jan-2024 23:28:23 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:23 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:23 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:24 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:24 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:24 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:24 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:24 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:24 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:25 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:25 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:25 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:25 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:25 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:25 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:26 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:26 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:26 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:26 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:26 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:26 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:26 UTC] PHP Fatal error:  Class 'WP_Session_Tokens' not found in /home/tflx/public_html/blog/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[25-Jan-2024 23:28:27 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:27 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:27 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:27 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:27 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:27 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:28 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:28 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:28 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:28 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:28 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:28 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:29 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:29 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:29 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:30 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:30 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:30 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:30 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:30 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:30 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:30 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/tflx/public_html/blog/wp-includes/class-wp-xmlrpc-server.php on line 24
+[25-Jan-2024 23:28:31 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:31 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:31 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:31 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:31 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:31 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:32 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:32 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:32 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/tflx/public_html/blog/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/class.wp-dependencies.php on line 11
+[25-Jan-2024 23:28:32 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:32 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:32 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/tflx/public_html/blog/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/class.wp-scripts.php on line 11
+[25-Jan-2024 23:28:33 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:33 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:33 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/tflx/public_html/blog/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/class.wp-styles.php on line 11
+[25-Jan-2024 23:28:33 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:33 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:33 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:34 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:34 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:34 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:34 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:34 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:34 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:34 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/compat.php on line 338
+[25-Jan-2024 23:28:34 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/compat.php on line 338
+[25-Jan-2024 23:28:34 UTC] PHP Warning:  require(ABSPATHWPINC/sodium_compat/autoload.php): failed to open stream: No such file or directory in /home/tflx/public_html/blog/wp-includes/compat.php on line 338
+[25-Jan-2024 23:28:34 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/sodium_compat/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tflx/public_html/blog/wp-includes/compat.php on line 338
+[25-Jan-2024 23:28:35 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:35 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:35 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:35 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:35 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:35 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/tflx/public_html/blog/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/date.php on line 11
+[25-Jan-2024 23:28:36 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:36 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:36 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:36 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:36 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:36 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tflx/public_html/blog/wp-includes/default-filters.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/default-filters.php on line 22
+[25-Jan-2024 23:28:37 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:37 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:37 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:37 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/default-widgets.php on line 11
+[25-Jan-2024 23:28:37 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/default-widgets.php on line 11
+[25-Jan-2024 23:28:37 UTC] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home/tflx/public_html/blog/wp-includes/default-widgets.php on line 11
+[25-Jan-2024 23:28:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tflx/public_html/blog/wp-includes/default-widgets.php on line 11
+[25-Jan-2024 23:28:37 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:37 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:37 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:38 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:38 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:38 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/tflx/public_html/blog/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/embed-template.php on line 11
+[25-Jan-2024 23:28:38 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:38 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:38 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:39 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:39 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:39 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:40 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:40 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:40 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/tflx/public_html/blog/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/feed-atom-comments.php on line 8
+[25-Jan-2024 23:28:41 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:41 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:41 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/tflx/public_html/blog/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/feed-atom.php on line 8
+[25-Jan-2024 23:28:42 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:42 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:42 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/tflx/public_html/blog/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/feed-rdf.php on line 8
+[25-Jan-2024 23:28:42 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:42 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:42 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/tflx/public_html/blog/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/feed-rss.php on line 8
+[25-Jan-2024 23:28:43 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:43 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:43 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/tflx/public_html/blog/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/feed-rss2-comments.php on line 8
+[25-Jan-2024 23:28:43 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:43 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:43 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/tflx/public_html/blog/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/feed-rss2.php on line 8
+[25-Jan-2024 23:28:44 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:44 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:44 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:44 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:44 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:44 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:45 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:45 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:45 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:45 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:45 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:45 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:45 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/functions.php on line 8
+[25-Jan-2024 23:28:45 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/functions.php on line 8
+[25-Jan-2024 23:28:45 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/tflx/public_html/blog/wp-includes/functions.php on line 8
+[25-Jan-2024 23:28:45 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tflx/public_html/blog/wp-includes/functions.php on line 8
+[25-Jan-2024 23:28:46 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:46 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:46 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:46 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:46 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:46 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:47 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:47 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:47 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:47 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:47 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:47 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:48 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:48 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:48 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:49 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:49 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:49 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:49 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:49 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:49 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:50 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:50 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:50 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:50 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:50 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:50 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:51 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:51 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:51 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:52 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:52 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:52 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:52 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:52 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:52 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/tflx/public_html/blog/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/locale.php on line 11
+[25-Jan-2024 23:28:53 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:53 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:53 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:53 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:53 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:53 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/tflx/public_html/blog/wp-includes/media.php:2317
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/media.php on line 2317
+[25-Jan-2024 23:28:54 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:54 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:54 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:54 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/meta.php on line 13
+[25-Jan-2024 23:28:54 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/meta.php on line 13
+[25-Jan-2024 23:28:54 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-metadata-lazyloader.php): failed to open stream: No such file or directory in /home/tflx/public_html/blog/wp-includes/meta.php on line 13
+[25-Jan-2024 23:28:54 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-metadata-lazyloader.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tflx/public_html/blog/wp-includes/meta.php on line 13
+[25-Jan-2024 23:28:55 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:55 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:55 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:55 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/ms-blogs.php on line 11
+[25-Jan-2024 23:28:55 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/ms-blogs.php on line 11
+[25-Jan-2024 23:28:55 UTC] PHP Warning:  require_once(ABSPATHWPINC/ms-site.php): failed to open stream: No such file or directory in /home/tflx/public_html/blog/wp-includes/ms-blogs.php on line 11
+[25-Jan-2024 23:28:55 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/ms-site.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tflx/public_html/blog/wp-includes/ms-blogs.php on line 11
+[25-Jan-2024 23:28:55 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:55 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:55 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:56 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:56 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:56 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/tflx/public_html/blog/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/ms-default-filters.php on line 16
+[25-Jan-2024 23:28:56 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:56 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:56 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:57 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:57 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:57 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:57 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:57 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:57 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:58 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:58 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:58 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:58 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:58 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:58 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:59 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:59 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:59 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:59 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/ms-settings.php on line 35
+[25-Jan-2024 23:28:59 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/ms-settings.php on line 35
+[25-Jan-2024 23:28:59 UTC] PHP Warning:  require_once(ABSPATHWPINC/class-wp-network.php): failed to open stream: No such file or directory in /home/tflx/public_html/blog/wp-includes/ms-settings.php on line 35
+[25-Jan-2024 23:28:59 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-network.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tflx/public_html/blog/wp-includes/ms-settings.php on line 35
+[25-Jan-2024 23:28:59 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:59 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:28:59 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:00 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:00 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:00 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:00 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/nav-menu-template.php on line 11
+[25-Jan-2024 23:29:00 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/nav-menu-template.php on line 11
+[25-Jan-2024 23:29:00 UTC] PHP Warning:  require_once(ABSPATHWPINC/class-walker-nav-menu.php): failed to open stream: No such file or directory in /home/tflx/public_html/blog/wp-includes/nav-menu-template.php on line 11
+[25-Jan-2024 23:29:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-walker-nav-menu.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tflx/public_html/blog/wp-includes/nav-menu-template.php on line 11
+[25-Jan-2024 23:29:01 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:01 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:01 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:01 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:01 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:01 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:02 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:02 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:02 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:02 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:02 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:02 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:03 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:03 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:03 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:04 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:04 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:04 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:04 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:04 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:04 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:05 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:05 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:05 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:05 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:05 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:05 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:06 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:06 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:06 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:06 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:06 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:06 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/tflx/public_html/blog/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/registration-functions.php on line 9
+[25-Jan-2024 23:29:07 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:07 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:07 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/tflx/public_html/blog/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/registration.php on line 9
+[25-Jan-2024 23:29:07 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:07 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:07 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:08 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:08 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:08 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:08 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:08 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:08 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:09 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:09 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:09 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:10 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:10 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:10 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:10 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:10 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:10 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/tflx/public_html/blog/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/rss.php on line 19
+[25-Jan-2024 23:29:11 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:11 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:11 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:11 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/script-loader.php on line 20
+[25-Jan-2024 23:29:11 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/script-loader.php on line 20
+[25-Jan-2024 23:29:11 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home/tflx/public_html/blog/wp-includes/script-loader.php on line 20
+[25-Jan-2024 23:29:11 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tflx/public_html/blog/wp-includes/script-loader.php on line 20
+[25-Jan-2024 23:29:11 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:11 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:11 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/tflx/public_html/blog/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/session.php on line 9
+[25-Jan-2024 23:29:12 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:12 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:12 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:12 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:12 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:12 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:13 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:13 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:13 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/tflx/public_html/blog/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/spl-autoload-compat.php on line 14
+[25-Jan-2024 23:29:13 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:13 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:13 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:14 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:14 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:14 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:14 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:14 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:14 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/tflx/public_html/blog/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/template-canvas.php on line 12
+[25-Jan-2024 23:29:15 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:15 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:15 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home/tflx/public_html/blog/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/template-loader.php on line 7
+[25-Jan-2024 23:29:15 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:15 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:15 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:16 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:16 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:16 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:16 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:16 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:16 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:17 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:17 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:17 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:17 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:17 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:17 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/tflx/public_html/blog/wp-includes/update.php:1149
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/update.php on line 1149
+[25-Jan-2024 23:29:18 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:18 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:18 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:19 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:19 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:19 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/tflx/public_html/blog/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/vars.php on line 23
+[25-Jan-2024 23:29:19 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:19 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:19 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:20 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:20 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:20 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:22 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:22 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:22 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:22 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:22 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:22 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[25-Jan-2024 23:29:22 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/wp-diff.php on line 13
+[25-Jan-2024 23:29:22 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/wp-diff.php on line 13
+[25-Jan-2024 23:29:22 UTC] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home/tflx/public_html/blog/wp-includes/wp-diff.php on line 13
+[25-Jan-2024 23:29:22 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Text/Diff.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tflx/public_html/blog/wp-includes/wp-diff.php on line 13
+[20-Jun-2024 12:52:12 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:13 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:13 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:17 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:17 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:17 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:18 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:18 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:18 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:19 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:19 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:19 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:20 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:20 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:20 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:24 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:24 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:24 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/tflx/public_html/blog/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tflx/public_html/blog/wp-includes/block-patterns.php on line 9
+[20-Jun-2024 12:52:25 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:25 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:25 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:26 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:26 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:26 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:27 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:27 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:27 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:29 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:29 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:29 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:29 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:29 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:29 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:30 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:30 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:30 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:31 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:31 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:31 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:31 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/cache.php on line 12
+[20-Jun-2024 12:52:31 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/cache.php on line 12
+[20-Jun-2024 12:52:31 UTC] PHP Warning:  require_once(ABSPATHWPINC/class-wp-object-cache.php): failed to open stream: No such file or directory in /home/tflx/public_html/blog/wp-includes/cache.php on line 12
+[20-Jun-2024 12:52:31 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-object-cache.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tflx/public_html/blog/wp-includes/cache.php on line 12
+[20-Jun-2024 12:52:33 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:33 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:33 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:35 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:35 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:35 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:36 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:36 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:36 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:37 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:37 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:37 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:39 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:39 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:39 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:39 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/class-IXR.php on line 42
+[20-Jun-2024 12:52:39 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/tflx/public_html/blog/wp-includes/class-IXR.php on line 42
+[20-Jun-2024 12:52:39 UTC] PHP Warning:  require_once(ABSPATHWPINC/IXR/class-IXR-server.php): failed to open stream: No such file or directory in /home/tflx/public_html/blog/wp-includes/class-IXR.php on line 42
+[20-Jun-2024 12:52:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/IXR/class-IXR-server.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tflx/public_html/blog/wp-includes/class-IXR.php on line 42
+[20-Jun-2024 12:52:40 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:40 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[20-Jun-2024 12:52:40 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0

@@ -1,0 +1,43 @@
+/*font Variables*/
+$headingFont: 'Ubuntu', sans-serif;
+$paraFont:    'Rubik', sans-serif;
+$roboto: 	  'Roboto', sans-serif;
+
+
+/*Color Variables*/
+$baseColor: #101e8e;
+$baseColorLight: #007bff;
+$dip: #020a21;
+$heading: #33363e;
+$pfont: #797979; 
+$white: #fff;
+$black: #000;
+$grey: #eee;
+$bg_one: #f7f7f7;
+$title-color: #2a2a2a;
+$border: #e8edf1;
+
+
+
+/*=================== fonts ====================*/
+//@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Rubik:400,500,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+// Mixins
+@mixin transition($property: all, $duration: 300ms, $animate: linear, $delay:0s){
+	transition: $property $duration $animate $delay; 
+}
+
+// Placeholder Mixins
+
+@mixin placeholder {
+	&.placeholder { @content; }
+	&:-moz-placeholder { @content; }
+	&::-moz-placeholder { @content; }
+	&::-webkit-input-placeholder { @content; }
+}
+
+
+

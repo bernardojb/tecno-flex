@@ -1,0 +1,267 @@
+/*----------------------------------------------------
+@File: Default Styles
+@Author: Rocky Ahmed
+@URL: http://wethemez.com
+Author E-mail: rockybd1995@gmail.com
+
+This file contains the styling for the actual theme, this
+is the file you need to edit to change the look of the
+theme.
+---------------------------------------------------- */
+
+/*=====================================================================
+@Template Name: Builder Construction 
+@Author: Rocky Ahmed
+@Developed By: Rocky Ahmed
+@Developer URL: http://rocky.wethemez.com
+Author E-mail: rockybd1995@gmail.com
+
+@Default Styles
+
+Table of Content:
+01/ Variables
+02/ predefin
+03/ header
+04/ button
+05/ banner
+06/ breadcrumb
+07/ about
+08/ team
+09/ project 
+10/ price 
+11/ team 
+12/ blog 
+13/ video  
+14/ service  
+15/ career  
+16/ contact 
+17/ footer
+
+=====================================================================*/
+
+/*----------------------------------------------------*/
+@import "variables";
+/*---------------------------------------------------- */
+
+/*----------------------------------------------------*/
+@import "predefine";
+/*---------------------------------------------------- */
+
+/*----------------------------------------------------*/
+@import "header";
+/*---------------------------------------------------- */
+
+/*----------------------------------------------------*/
+@import "breadcrumb";
+/*---------------------------------------------------- */
+
+/*----------------------------------------------------*/
+@import "blog";
+/*---------------------------------------------------- */
+
+/*----------------------------------------------------*/
+@import "contact";
+/*---------------------------------------------------- */
+
+/*----------------------------------------------------*/
+@import "appointment";
+/*---------------------------------------------------- */
+
+/*----------------------------------------------------*/
+@import "elements";
+/*---------------------------------------------------- */
+
+/*----------------------------------------------------*/
+@import "button";
+/*---------------------------------------------------- */
+
+/*----------------------------------------------------*/
+@import "testimonials";
+/*---------------------------------------------------- */
+
+/*----------------------------------------------------*/
+@import "team";
+/*---------------------------------------------------- */
+
+/*----------------------------------------------------*/
+@import "hotline";
+/*---------------------------------------------------- */
+
+/*----------------------------------------------------*/
+@import "services";
+/*---------------------------------------------------- */
+
+/*----------------------------------------------------*/
+@import "about";
+/*---------------------------------------------------- */
+
+/*----------------------------------------------------*/
+@import "footer";
+/*---------------------------------------------------- */
+
+
+/*----------------------------------------------------*/
+@import "timeline";
+/*---------------------------------------------------- */
+
+@import "time-line";
+/*---------------------------------------------------- */
+
+@import "counter";
+/*---------------------------------------------------- */
+
+
+.title {
+    color: $baseColor;
+}
+
+.title2 {
+    color: $baseColor;
+
+    &:before {
+        content: "";
+        height: 2px;
+        width: 267px;
+        background-color: #101e8e;
+        position: absolute;
+        right: 423px;
+        top: 25px;
+        border-radius: 20px;
+    }
+
+    &:after {
+        content: "";
+        height: 2px;
+        width: 266px;
+        background-color: #101e8e;
+        position: absolute;
+        right: 0;
+        top: 25px;
+        border-radius: 20px;
+    }
+}
+
+.title3 {
+    color: $baseColor;
+
+    &:before {
+        content: "";
+        height: 2px;
+        width: 272px;
+        background-color: #101e8e;
+        position: absolute;
+        right: 423px;
+        top: 25px;
+        border-radius: 20px;
+    }
+
+    &:after {
+        content: "";
+        height: 2px;
+        width: 256px;
+        background-color: #101e8e;
+        position: absolute;
+        right: 0;
+        top: 25px;
+        border-radius: 20px;
+    }
+}
+
+.title4 {
+    color: $baseColor;
+
+    &:before {
+        content: "";
+        height: 2px;
+        width: 272px;
+        background-color: #101e8e;
+        position: absolute;
+        right: 545px;
+        top: 25px;
+        border-radius: 20px;
+    }
+
+    &:after {
+        content: "";
+        height: 2px;
+        width: 256px;
+        background-color: #101e8e;
+        position: absolute;
+        right: -14px;
+        top: 25px;
+        border-radius: 20px;
+    }
+}
+
+.carousel.slide {
+
+    // height: 100vw;
+    img {
+        max-width: 100%;
+        width: 100vw;
+        height: 100vh;
+        object-fit: cover;
+        @media (max-width: 768px) {
+            height: 100%;
+        }
+    }
+}
+
+.banner_content {
+    h1 {
+        color: #fff;
+    }
+
+    .page_link {
+        a {
+            color: #fff !important;
+        }
+    }
+}
+
+.flip {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+
+}
+.icone{
+    color: #a7a9ab;
+}
+.img-pad{
+    padding: 20px;
+    img{
+        width: 150px;
+        height: 150px;
+        object-fit: contain;
+    }
+}
+
+.flex-direction-column{
+    flex-direction: column;
+}
+
+.table-striped.inverted tbody tr:nth-of-type(odd) {
+    background-color: #fff;
+}
+
+.table-striped.inverted tbody tr:nth-of-type(even ) {
+    background-color: rgba(0, 0, 0, .05);
+}
+
+.title-tm{
+    color: #101e8e;
+    font-size: 40px;
+    font-weight: 900;
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 1rem;
+    text-align: center
+}
+
+.pq{
+    width: 150px;
+    border-top-color: #a7a9ab;
+    border-width: initial;
+    margin-bottom: 3rem;
+}
+
+.icon-routes{width: 25px;margin-bottom: 15px;}

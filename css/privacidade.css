@@ -1,0 +1,63 @@
+.politica-de-privacidade h2 {
+  margin-top: 15px;
+}
+
+.lgpd {
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  padding: 15px;
+  position: fixed;
+  bottom: 0;
+  width: 95%;
+  margin: 0 2.5%;
+  z-index: 100000000000000010000000000000;
+  display: none;
+}
+
+.lgpd .lgpd-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.lgpd .lgpd-container .lgpd-msg {
+  font-size: 13px;
+  width: 90%;
+}
+
+.lgpd .lgpd-container .lgpd-msg a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.lgpd .lgpd-container .lgpd-button-container {
+  width: 10%;
+}
+
+.lgpd .lgpd-container .lgpd-button-container .lgpd-btn {
+  background: #eab934;
+  border: 0;
+  padding: 5px 15px;
+  display: block;
+  outline: none;
+  width: 100%;
+  font-size: 14px;
+}
+
+@media (max-width: 768px) {
+  .lgpd .lgpd-container .lgpd-button-container .lgpd-btn {
+    background: #eab934;
+    border: 0;
+    padding: 5px 15px;
+    display: block;
+    outline: none;
+    width: auto;
+    font-size: 14px;
+  }
+
+  .lgpd .lgpd-container {
+    display: block;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+}

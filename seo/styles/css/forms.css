@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+/* -------------------------------------------------- */
+html, body {background: #E6E6E6; color: #666666; font-family: 'Titillium Web', sans-serif; font-size: 14px; overflow-x: hidden;}
+body       {display: flex; flex-direction: column; min-height: 100vh;}
+main       {display: flex; flex: 1;}
+/* -------------------------------------------------- */
+#page-loader            {background-color: #FFFFFF; bottom: 0; left: 0; position: fixed; right: 0; top: 0; z-index: 9999}
+#page-spinner           {animation: spin 0.6s linear infinite; border: 6px solid #DDDDDD; border-radius: 50%; border-bottom: 6px solid #5C2D91; border-top: 6px solid #5C2D91; height: 60px; left: 50%; margin: -30px 0 0 -30px; position: absolute; top: 50%; width: 60px; -webkit-animation: spin 0.6s linear infinite}
+@-webkit-keyframes spin {0% {-webkit-transform: rotate(0deg)} 100% {-webkit-transform: rotate(360deg)}}
+@keyframes spin         {0% {transform: rotate(0deg)} 100% {transform: rotate(360deg)}}
+/* -------------------------------------------------- */
+a, a:link, a:active, a:visited {text-decoration: none; transition: 0.2s all; -moz-transition: 0.2s all; -o-transition: 0.2s all; -webkit-transition: 0.2s all;}
+/* -------------------------------------------------- */
+a       {color: #5C2D91;}
+a:hover {color: #461979;}
+/* -------------------------------------------------- */
+.purple       {color: #5C2D91;}
+.form-control {font-size: 14px;}
+/* -------------------------------------------------- */
+.btn                                   {border: none; transition: 0.2s all; -moz-transition: 0.2s all; -o-transition: 0.2s all; -webkit-transition: 0.2s all;}
+.btn-primary                           {background-color: #5C2D91;}
+.btn-primary:hover, .btn-primary:focus {background-color: #461979;}
+.btn-outline-light                     {color: #666666;}
+/* -------------------------------------------------- */
+.card {max-width: 80vw; width: 320px;}
