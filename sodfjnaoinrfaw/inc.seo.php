@@ -16,9 +16,9 @@ if ($activePage == '') {
 # ----------------------------------------
 switch ($activePage) {
   case "home":
-    $title       = "Home";
+    $title = "Home";
     $description = "Conheça a Tecno-Flex";
-    $activeHome  = "active";
+    $activeHome = "active";
     break;
   case 'sobre-nos':
     $title = 'Sobre Nós';
@@ -120,88 +120,88 @@ $canonical = $proto . '://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 
 <head>
 
-   <!-- Sempre checar se está OK daqui para baixo -->
-   <!-- <base href="https://www.tflx.com.br/"> -->
+  <!-- Sempre checar se está OK daqui para baixo -->
+  <!-- <base href="https://www.tflx.com.br/"> -->
 
-   <base href="https://www.tflx.com.br/">
+  <!-- <base href="https://www.tflx.com.br/"> -->
 
-   <!-- Title -->
-   <title><?= $title ?><?= $isHome = !isset($isHome) ? ' | Tecno-Flex' : ''; ?></title>
-   <!-- Charset -->
-   <meta charset="UTF-8">
-   <!-- Meta Tags -->
-   <meta name="description" content="<?= $description ?>">
-   <meta name="keywords" content="<?= $keywords ?>">
-   <!-- Canonical -->
-   <link rel="canonical" href="<?= $canonical ?>" />
-   <!-- OpenGraph -->
-   <meta property="og:region" content="Brasil">
-   <meta property="og:title" content="<?= $title ?>">
-   <meta property="og:type" content="article">
-   <meta property="og:description" content="<?= $description ?>">
-   <meta property="og:site_name" content="<?= $title ?>">
-   <meta property="og:keywords" content="<?= $keywords ?>">
-   <meta property="og:canonical" content="<?= $canonical ?>">
+  <!-- Title -->
+  <title><?= $title ?><?= $isHome = !isset($isHome) ? ' | Tecno-Flex' : ''; ?></title>
+  <!-- Charset -->
+  <meta charset="UTF-8">
+  <!-- Meta Tags -->
+  <meta name="description" content="<?= $description ?>">
+  <meta name="keywords" content="<?= $keywords ?>">
+  <!-- Canonical -->
+  <link rel="canonical" href="<?= $canonical ?>" />
+  <!-- OpenGraph -->
+  <meta property="og:region" content="Brasil">
+  <meta property="og:title" content="<?= $title ?>">
+  <meta property="og:type" content="article">
+  <meta property="og:description" content="<?= $description ?>">
+  <meta property="og:site_name" content="<?= $title ?>">
+  <meta property="og:keywords" content="<?= $keywords ?>">
+  <meta property="og:canonical" content="<?= $canonical ?>">
 
-   <meta name="author" content="Ubika Brasil">
-   <meta name="fone" content="11 3673-7056 | 11 3864-6282" />
-   <meta name="city" content="São Paulo" />
+  <meta name="author" content="Ubika Brasil">
+  <meta name="fone" content="11 3673-7056 | 11 3864-6282" />
+  <meta name="city" content="São Paulo" />
 
-   <!-- Daqui para baixo é padrão, não mexer -->
+  <!-- Daqui para baixo é padrão, não mexer -->
 
-   <meta name="country" content="Brasil" />
-   <meta name="geo.region" content="-BR" />
-   <meta name="copyright" content="Copyright " />
-   <meta name="geo.position" content="-23.539351;-46.681925">
-   <meta name="geo.placename" content="São Paulo-SP">
-   <meta name="geo.region" content="SP-BR">
-   <meta name="ICBM" content="-23.539351;-46.681925">
-   <meta name="robots" content="index,follow">
-   <meta name="rating" content="General">
-   <meta name="revisit-after" content="2 days">
-   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="country" content="Brasil" />
+  <meta name="geo.region" content="-BR" />
+  <meta name="copyright" content="Copyright " />
+  <meta name="geo.position" content="-23.539351;-46.681925">
+  <meta name="geo.placename" content="São Paulo-SP">
+  <meta name="geo.region" content="SP-BR">
+  <meta name="ICBM" content="-23.539351;-46.681925">
+  <meta name="robots" content="index,follow">
+  <meta name="rating" content="General">
+  <meta name="revisit-after" content="2 days">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-   <!-- Favicon -->
-   <link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
-   <link rel="icon" href="img/favicon/favicon.ico" type="image/x-icon">
-   <!-- CDN -->
-   <?php include 'inc/inc.cdn.php'; ?>
-   <!-- CSS -->
-   <?php include 'inc/inc.css.php'; ?>
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="img/favicon/favicon.ico" type="image/x-icon">
+  <!-- CDN -->
+  <?php include 'inc/inc.cdn.php'; ?>
+  <!-- CSS -->
+  <?php include 'inc/inc.css.php'; ?>
 
-   <!-- Global site tag (gtag.js) - Google Analytics -->
-   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PZQTFRHPRQ"></script>
-   <script>
-   window.dataLayer = window.dataLayer || [];
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PZQTFRHPRQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
 
-   function gtag() {
+    function gtag() {
       dataLayer.push(arguments);
-   }
-   gtag('js', new Date());
+    }
+    gtag('js', new Date());
 
-   gtag('config', 'G-PZQTFRHPRQ');
-   </script>
+    gtag('config', 'G-PZQTFRHPRQ');
+  </script>
 
-   <!-- Google Tag Manager -->
-   <script>
-   (function(w, d, s, l, i) {
+  <!-- Google Tag Manager -->
+  <script>
+    (function (w, d, s, l, i) {
       w[l] = w[l] || [];
       w[l].push({
-         'gtm.start': new Date().getTime(),
-         event: 'gtm.js'
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
       });
       var f = d.getElementsByTagName(s)[0],
-         j = d.createElement(s),
-         dl = l != 'dataLayer' ? '&l=' + l : '';
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
       j.async = true;
       j.src =
-         'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
       f.parentNode.insertBefore(j, f);
-   })(window, document, 'script', 'dataLayer', 'GTM-WWSKGQ3');
-   </script>
-   <!-- End Google Tag Manager -->
+    })(window, document, 'script', 'dataLayer', 'GTM-WWSKGQ3');
+  </script>
+  <!-- End Google Tag Manager -->
 
-   <script type="application/ld+json">
+  <script type="application/ld+json">
    {
       "@context": "https://schema.org/",
       "@type": "WebSite",
@@ -215,7 +215,7 @@ $canonical = $proto . '://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
    }
    </script>
 
-   <script type="application/ld+json">
+  <script type="application/ld+json">
    {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
@@ -253,7 +253,7 @@ $canonical = $proto . '://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
    </script>
 
 
-   <!-- LGPD -->
-   <meta name="adopt-website-id" content="8e3b9455-7eb8-472a-b65a-a9075f7758aa" />
-   <script src="//tag.goadopt.io/injector.js?website_code=8e3b9455-7eb8-472a-b65a-a9075f7758aa" class="adopt-injector">
-   </script>
+  <!-- LGPD -->
+  <meta name="adopt-website-id" content="8e3b9455-7eb8-472a-b65a-a9075f7758aa" />
+  <script src="//tag.goadopt.io/injector.js?website_code=8e3b9455-7eb8-472a-b65a-a9075f7758aa" class="adopt-injector">
+  </script>
